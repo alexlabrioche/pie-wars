@@ -15,6 +15,6 @@
 
 <p align="center">
   <br><br>
-  <img src="/src/git/piewars.gif">
+  <img src="/public/git/piewars.gif">
   <br><br>
 </p>
