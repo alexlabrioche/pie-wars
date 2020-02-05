@@ -1,24 +1,23 @@
 {
   "name": "swapi-dataviz",
+  "homepage": "https://alexlabrioche.github.io/pie-wars",
   "version": "0.1.0",
   "private": true,
   "dependencies": {
-    "@carbon/charts": "^0.16.8",
-    "@carbon/charts-react": "^0.16.8",
     "axios": "^0.19.0",
-    "carbon-components": "^10.6.4",
-    "carbon-components-react": "^7.6.4",
-    "carbon-icons": "^7.0.7",
     "chart.js": "^2.8.0",
     "d3": "^5.12.0",
+    "gh-pages": "^2.2.0",
     "react": "^16.10.2",
     "react-chartjs-2": "^2.8.0",
     "react-dom": "^16.10.2",
-    "react-scripts": "3.2.0",
+    "react-scripts": "^3.3.1",
     "styled-components": "^4.4.0"
   },
   "scripts": {
     "start": "react-scripts start",
+    "predeploy": "npm run build",
+    "deploy": "gh-pages -d build",
     "build": "react-scripts build",
     "test": "react-scripts test",
     "eject": "react-scripts eject"
