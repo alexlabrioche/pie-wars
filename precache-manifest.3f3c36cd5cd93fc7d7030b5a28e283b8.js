@@ -1,10 +1,10 @@
 self.__precacheManifest = (self.__precacheManifest || []).concat([
   {
-    "revision": "d6e26c10f00f7fecfdcf3a5944c79fcb",
+    "revision": "586db45af69184297a72dac9bb800000",
     "url": "/pie-wars/index.html"
   },
   {
-    "revision": "b354436cb5fccb880cc5",
+    "revision": "48a1305e5270d4dfee94",
     "url": "/pie-wars/static/css/main.34de6062.chunk.css"
   },
   {
@@ -16,8 +16,8 @@ self.__precacheManifest = (self.__precacheManifest || []).concat([
     "url": "/pie-wars/static/js/2.0e95847c.chunk.js.LICENSE.txt"
   },
   {
-    "revision": "b354436cb5fccb880cc5",
-    "url": "/pie-wars/static/js/main.e3dd40af.chunk.js"
+    "revision": "48a1305e5270d4dfee94",
+    "url": "/pie-wars/static/js/main.ab286379.chunk.js"
   },
   {
     "revision": "3ed211bdc9356a1b2695",

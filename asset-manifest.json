@@ -1,14 +1,14 @@
 {
   "files": {
     "main.css": "/pie-wars/static/css/main.34de6062.chunk.css",
-    "main.js": "/pie-wars/static/js/main.e3dd40af.chunk.js",
-    "main.js.map": "/pie-wars/static/js/main.e3dd40af.chunk.js.map",
+    "main.js": "/pie-wars/static/js/main.ab286379.chunk.js",
+    "main.js.map": "/pie-wars/static/js/main.ab286379.chunk.js.map",
     "runtime-main.js": "/pie-wars/static/js/runtime-main.6dda66e5.js",
     "runtime-main.js.map": "/pie-wars/static/js/runtime-main.6dda66e5.js.map",
     "static/js/2.0e95847c.chunk.js": "/pie-wars/static/js/2.0e95847c.chunk.js",
     "static/js/2.0e95847c.chunk.js.map": "/pie-wars/static/js/2.0e95847c.chunk.js.map",
     "index.html": "/pie-wars/index.html",
-    "precache-manifest.326ebf9dae3b51731409ad3bf5027a32.js": "/pie-wars/precache-manifest.326ebf9dae3b51731409ad3bf5027a32.js",
+    "precache-manifest.3f3c36cd5cd93fc7d7030b5a28e283b8.js": "/pie-wars/precache-manifest.3f3c36cd5cd93fc7d7030b5a28e283b8.js",
     "service-worker.js": "/pie-wars/service-worker.js",
     "static/css/main.34de6062.chunk.css.map": "/pie-wars/static/css/main.34de6062.chunk.css.map",
     "static/js/2.0e95847c.chunk.js.LICENSE.txt": "/pie-wars/static/js/2.0e95847c.chunk.js.LICENSE.txt"
@@ -17,6 +17,6 @@
     "static/js/runtime-main.6dda66e5.js",
     "static/js/2.0e95847c.chunk.js",
     "static/css/main.34de6062.chunk.css",
-    "static/js/main.e3dd40af.chunk.js"
+    "static/js/main.ab286379.chunk.js"
   ]
 }
