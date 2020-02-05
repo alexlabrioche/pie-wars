@@ -1,0 +1,22 @@
+{
+  "files": {
+    "main.css": "/pie-wars/static/css/main.34de6062.chunk.css",
+    "main.js": "/pie-wars/static/js/main.279b544b.chunk.js",
+    "main.js.map": "/pie-wars/static/js/main.279b544b.chunk.js.map",
+    "runtime-main.js": "/pie-wars/static/js/runtime-main.6dda66e5.js",
+    "runtime-main.js.map": "/pie-wars/static/js/runtime-main.6dda66e5.js.map",
+    "static/js/2.0e95847c.chunk.js": "/pie-wars/static/js/2.0e95847c.chunk.js",
+    "static/js/2.0e95847c.chunk.js.map": "/pie-wars/static/js/2.0e95847c.chunk.js.map",
+    "index.html": "/pie-wars/index.html",
+    "precache-manifest.9741df3fd3990bba2a972eb312349fc4.js": "/pie-wars/precache-manifest.9741df3fd3990bba2a972eb312349fc4.js",
+    "service-worker.js": "/pie-wars/service-worker.js",
+    "static/css/main.34de6062.chunk.css.map": "/pie-wars/static/css/main.34de6062.chunk.css.map",
+    "static/js/2.0e95847c.chunk.js.LICENSE.txt": "/pie-wars/static/js/2.0e95847c.chunk.js.LICENSE.txt"
+  },
+  "entrypoints": [
+    "static/js/runtime-main.6dda66e5.js",
+    "static/js/2.0e95847c.chunk.js",
+    "static/css/main.34de6062.chunk.css",
+    "static/js/main.279b544b.chunk.js"
+  ]
+}
