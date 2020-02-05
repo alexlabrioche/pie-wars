@@ -34,7 +34,7 @@ function Appbar() {
     <StyledAppbar>
       <h1 onClick={() => setWoman((s) => !s)}>
         <span role="img" aria-label="AstroMan">
-          {woman ? '👩‍🚀' : '👨‍🚀'} PieWars
+          {woman ? '👩‍🚀' : '🚀'} PieWars
         </span>
       </h1>
       <h3>All the Star Wars data U never wanted to know...</h3>

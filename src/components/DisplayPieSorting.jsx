@@ -13,11 +13,6 @@ const StyledSorting = styled.div`
   li {
     margin: 0.5rem 0;
     font-size: 1.2rem;
-    cursor: pointer;
-    transition: color 200ms ease;
-    &:hover {
-      color: paleturquoise;
-    }
   }
 `;
 function DisplayPieSorting({ data }) {
